@@ -1,5 +1,5 @@
 ---
-title: NetlifyCMS
+title: Brad Lee Baker's Blog
 ---
 # NetlifyCMS
 
