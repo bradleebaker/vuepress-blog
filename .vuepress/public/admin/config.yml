@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: capriosa/vuepress-deploy
-  branch: master
+  repo: bradleebaker/vuepress-blog
+  branch: main
 
 public_folder: ".vuepress/dist/"
 media_folder: ".vuepress/dist/assets/img"
